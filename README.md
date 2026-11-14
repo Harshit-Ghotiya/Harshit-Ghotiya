@@ -25,7 +25,7 @@
 | Repository | Description | Key Highlights |
 | :--- | :--- | :--- |
 | **[`tempo`](https://github.com/Harshit-Ghotiya/tempo)** | **On-Device Multimodal Stress & Affect Estimation** (`v0.8.5`) | 100% client-side MediaPipe Wasm perception (478 landmarks, 52 blendshapes, pose), Median/MAD calibration, 3-ROI POS rPPG, LOPO dual-baseline Ridge/Softmax validation (`49/49` tests) |
-| **[`vaultpos`](https://github.com/Harshit-Ghotiya/vaultpos)** | **Offline-First AES-256-GCM Encrypted Point-of-Sale** | Zero-server POS vault secured with PBKDF2-SHA256 (50k rounds) + AES-256-GCM, automatic corruption quarantine recovery, dynamic UPI QR & 80mm thermal receipts |
+| **[`vaultpos`](https://github.com/Harshit-Ghotiya/vaultpos)** | **Offline-First AES-256-GCM Encrypted Point-of-Sale** | Built & deployed for a relative's commercial business (**₹10L+ in live transactions in under a month**); PBKDF2-SHA256 + AES-256-GCM vault, quarantine recovery, dynamic UPI QR & 80mm thermal receipts (`18 Node + 10 Python` tests) |
 
 ---
 
