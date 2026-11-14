@@ -5,7 +5,7 @@
 **B.Tech. in Engineering Physics (2nd Year) · Indian Institute of Technology Roorkee**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Harshit--Ghotiya-181717?logo=github)](https://github.com/Harshit-Ghotiya)
-[![Focus](https://img.shields.io/badge/Focus-ML_%C2%B7_Computer_Vision_%C2%B7_Edge_AI-2563EB)](#research--learning-focus)
+[![Focus](https://img.shields.io/badge/Focus-ML_%C2%B7_Computer_Vision_%C2%B7_NLP_%C2%B7_Edge_AI-2563EB)](#research--learning-focus)
 [![IITR](https://img.shields.io/badge/IIT_Roorkee-Engineering_Physics-0D9488)](https://www.iitr.ac.in)
 
 </div>
@@ -14,9 +14,9 @@
 
 ### Research & Learning Focus
 
-- **ML & Deep Learning Foundations:** Stanford **CS229** (*Machine Learning*), **CS231n** (*CNNs for Visual Recognition*, RNNs & LSTMs), regularization, bias-variance tradeoff, and generalization under small-sample regimes.
-- **Literature Studied:** *Word2Vec* (Mikolov et al., 2013), *Seq2Seq* (Sutskever et al., 2014), *Bahdanau Attention* (Bahdanau et al., 2015), and *Attention Is All You Need* (Vaswani et al., 2017).
-- **Current Interests:** Practical ML implementation, translating deep learning & computer vision architectures from theory to code, and on-device / edge multimodal perception.
+- **Neural Networks, Optimization & Vision (`CS229 L1–4, 9–10`; `CS231n L5, 11`):** Computational graphs, chain-rule autograd/backprop, SGD & Adam, cross-entropy/MSE, 2D CNN inductive biases, stacked $3\times3$ receptive fields ($(2N+1)\times(2N+1)$), output dimensionality, and parameter budgets.
+- **Sequence Modeling to Transformers (`CS224n L2, 8` & Seminal Papers):** *Word2Vec* (Mikolov et al., 2013; CBOW & Skip-Gram), *Seq2Seq* (Sutskever et al., 2014; fixed context bottleneck), *Bahdanau Attention* (Bahdanau et al., 2014), and *Attention Is All You Need* (Vaswani et al., 2017; scaled dot-product & multi-head self-attention, positional encodings, causal masking).
+- **Current Interests:** Translating deep learning, computer vision, and NLP papers from mathematical theory into clean from-scratch implementations, alongside on-device multimodal perception.
 
 ---
 
