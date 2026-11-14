@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Harshit Ghotiya 👋
+# Harshit Ghotiya
 
 **B.Tech. in Engineering Physics (2nd Year) · Indian Institute of Technology Roorkee**
 
@@ -12,7 +12,7 @@
 
 ---
 
-### 🔬 Research & Learning Focus
+### Research & Learning Focus
 
 - **ML & Deep Learning Foundations:** Stanford **CS229** (*Machine Learning*), **CS231n** (*CNNs for Visual Recognition*, RNNs & LSTMs), regularization, bias-variance tradeoff, and generalization under small-sample regimes.
 - **Literature Studied:** *Word2Vec* (Mikolov et al., 2013), *Seq2Seq* (Sutskever et al., 2014), *Bahdanau Attention* (Bahdanau et al., 2015), and *Attention Is All You Need* (Vaswani et al., 2017).
@@ -20,7 +20,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Selected Projects
 
 | Repository | Description | Key Highlights |
 | :--- | :--- | :--- |
@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠 Technical Stack
+### Technical Stack & Coursework
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
