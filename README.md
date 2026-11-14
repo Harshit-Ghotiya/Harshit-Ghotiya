@@ -39,4 +39,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-* **Coursework (IIT Roorkee):** Computer Programming (`PHC-101`), Calculus (`MAI-101`), Linear Algebra & Differential Equations (`MAI-102`), Probability & Statistics (`MAB-104`), Digital Electronics.
+* **Coursework (IIT Roorkee):** Computer Programming (`PHC-101`), Calculus (`MAI-101`), Probability & Statistics (`MAI-102`), Differential Equations (`MAB-104`), Digital Electronics.
