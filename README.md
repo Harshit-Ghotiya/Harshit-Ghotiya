@@ -16,7 +16,7 @@
 
 - **Neural Networks, Optimization & Vision (`CS229 L1–4, 9–10`; `CS231n L5, 11`):** Computational graphs, chain-rule autograd/backprop, SGD & Adam, cross-entropy/MSE, 2D CNN inductive biases, stacked $3\times3$ receptive fields ($(2N+1)\times(2N+1)$), output dimensionality, and parameter budgets.
 - **Sequence Modeling to Transformers (`CS224n L2, 8` & Seminal Papers):** *Word2Vec* (Mikolov et al., 2013; CBOW & Skip-Gram), *Seq2Seq* (Sutskever et al., 2014; fixed context bottleneck), *Bahdanau Attention* (Bahdanau et al., 2014), and *Attention Is All You Need* (Vaswani et al., 2017; scaled dot-product & multi-head self-attention, positional encodings, causal masking).
-- **Current Interests:** Translating deep learning, computer vision, and NLP papers from mathematical theory into clean from-scratch implementations, alongside on-device multimodal perception.
+- **Current Interests:** Translating deep learning, computer vision, and NLP papers from mathematical theory into practical architectures, alongside on-device multimodal perception.
 
 ---
 
@@ -39,4 +39,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-* **Coursework (IIT Roorkee):** Computer Programming (`PHC-101`), Linear Algebra & Differential Equations (`MAI-102`), Calculus (`MAI-101`), Probability & Statistics (`MAB-104`), Basic Electrical Engineering (`EEE-102`), Digital Electronics.
+* **Coursework (IIT Roorkee):** Computer Programming (`PHC-101`), Calculus (`MAI-101`), Linear Algebra & Differential Equations (`MAI-102`), Probability & Statistics (`MAB-104`), Digital Electronics.
