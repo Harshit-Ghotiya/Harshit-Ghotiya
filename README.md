@@ -16,7 +16,7 @@
 
 - **ML & Deep Learning Foundations:** Stanford **CS229** (*Machine Learning*), **CS231n** (*CNNs for Visual Recognition*, RNNs & LSTMs), regularization, bias-variance tradeoff, and generalization under small-sample regimes.
 - **Literature Studied:** *Word2Vec* (Mikolov et al., 2013), *Seq2Seq* (Sutskever et al., 2014), *Bahdanau Attention* (Bahdanau et al., 2015), and *Attention Is All You Need* (Vaswani et al., 2017).
-- **Current Interests:** On-device / edge multimodal perception, physiological & facial signal modeling, and rigorous cross-validation (Leave-One-Participant-Out against phase-aware baselines).
+- **Current Interests:** Practical ML implementation, translating deep learning & computer vision architectures from theory to code, and on-device / edge multimodal perception.
 
 ---
 
